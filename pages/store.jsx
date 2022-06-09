@@ -17,8 +17,8 @@ const store = () => {
 					alt='/'
 				/>
 				<div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-					<h2 className='py-2'>Property Finder</h2>
-					<h3>React JS / Tailwind / Firebase</h3>
+					<h2 className='py-2'>Game Store</h2>
+					<h3>React JS / Tailwind</h3>
 				</div>
 			</div>
 
@@ -47,15 +47,6 @@ const store = () => {
 							</p>
 							<p className='text-white py-2 flex items-center'>
 								<RiRadioButtonFill className='pr-1' /> Javascript
-							</p>
-							<p className='text-white py-2 flex items-center'>
-								<RiRadioButtonFill className='pr-1' /> Firebase
-							</p>
-							<p className='text-white py-2 flex items-center'>
-								<RiRadioButtonFill className='pr-1' /> Google API
-							</p>
-							<p className='text-white py-2 flex items-center'>
-								<RiRadioButtonFill className='pr-1' /> Zillow API
 							</p>
 						</div>
 					</div>
