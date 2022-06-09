@@ -46,7 +46,7 @@ const store = () => {
 								<RiRadioButtonFill className='pr-1' /> Tailwind
 							</p>
 							<p className='text-white py-2 flex items-center'>
-								<RiRadioButtonFill className='pr-1' /> Javascript
+								<RiRadioButtonFill className='pr-1' /> JS
 							</p>
 						</div>
 					</div>
