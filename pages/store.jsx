@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import { RiRadioButtonFill } from 'react-icons/Ri'
+import { RiRadioButtonFill } from 'react-icons/ri'
 import gameStoreImg from '../assets/gamestore.png'
 
 const store = () => {
